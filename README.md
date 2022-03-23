@@ -23,4 +23,4 @@ Current status: *paper/brain work...*
 
 Temp architecture for online-offline modes:
 
-*![ExpenserArchitecture](doc\ExpenserArchitecture.jpg)*
+![image](https://user-images.githubusercontent.com/16737055/159699654-ad4284ee-1c26-433e-b214-94c09a505c21.png)
